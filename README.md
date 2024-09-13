@@ -1,4 +1,3 @@
-# .github
 # About evroc
 Founded to power a digital Europe, evroc is building a secure, sovereign and sustainable hyperscale cloud that will put an end to the foreign dominance of the European cloud market.
 
